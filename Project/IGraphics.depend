@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1578448298 source:i:\world war iii final\project\src\igraphics.cpp
+	"iGraphics.h"
+
+1578448220 i:\world war iii final\project\include\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1568234216 i:\world war iii final\project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568234216 i:\world war iii final\project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1581433092 source:i:\world war iii final\project\imain.cpp
+	<iostream>
+	"include/iGraphics.h"
+	<math.h>
+	<fstream>
+
+1581433091 source:e:\igraghics code blocks project\world war iii final\project\imain.cpp
+	<iostream>
+	"include/iGraphics.h"
+	<math.h>
+	<fstream>
+
+1578448220 e:\igraghics code blocks project\world war iii final\project\include\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1568234216 e:\igraghics code blocks project\world war iii final\project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568234216 e:\igraghics code blocks project\world war iii final\project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1578448298 source:e:\igraghics code blocks project\world war iii final\project\src\igraphics.cpp
+	"iGraphics.h"
+
+1581417810 source:h:\world war iii final\project\imain.cpp
+	<iostream>
+	"include/iGraphics.h"
+	<math.h>
+	<fstream>
+
+1578390620 h:\world war iii final\project\include\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1568176616 h:\world war iii final\project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568176616 h:\world war iii final\project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1578390698 source:h:\world war iii final\project\src\igraphics.cpp
+	"iGraphics.h"
+
